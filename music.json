@@ -26,5 +26,61 @@
         "artist": "Daniel Norgren",
         "image": "https://i1.sndcdn.com/artworks-lk4Rfb5p9UbpWVyH-dvITdw-t500x500.jpg",
         "code": "QAfxXioZwfs"
+    },
+    {
+        "id": 5,
+        "name": "For The Love Of Music",
+        "artist": "Fat Freddy’s Drop",
+        "image": "https://i.ytimg.com/vi/EHh_vFZaS3c/hqdefault.jpg",
+        "code": "qIHQ1ez4Feg"
+    },
+    {
+        "id": 6,
+        "name": "Tac Mahal",
+        "artist": "Buray",
+        "image": "https://i4.hurimg.com/i/hurriyet/75/750x422/5d7200a518c77316c4f1f391.jpg",
+        "code": "2tAbyEz5YTk"
+    },
+    {
+        "id": 7,
+        "name": "Ay Parçası",
+        "artist": "Buray",
+        "image": "https://cdnguncelmp3indir.com/fotograflar/albumler/2018/06/buray_sahiden.jpg",
+        "code": "m89nlIA9XO0"
+    },
+    {
+        "id": 8,
+        "name": "İşim Olmaz",
+        "artist": "Yıldız Tilbe",
+        "image": "https://i.ytimg.com/vi/ilGtY1F1UUU/hqdefault.jpg",
+        "code": "DuzxR3Pevvo"
+    },
+    {
+        "id": 9,
+        "name": "Bu da Geçecek",
+        "artist": "Göksel",
+        "image": "https://upload.wikimedia.org/wikipedia/tr/8/8f/G%C3%B6ksel_-_Bu_da_Ge%C3%A7ecek.png",
+        "code": "9UXSWpHlhFc"
+    },
+    {
+        "id": 10,
+        "name": "Senden Daha Güzel",
+        "artist": "Duman",
+        "image": "https://images.genius.com/e0bd28c468989518ffbbc1b2299adf96.400x400x1.jpg",
+        "code": "3bfkyXtuIXk"
+    },
+    {
+        "id": 11,
+        "name": "Run Run",
+        "artist": "Indila",
+        "image": "https://i.ytimg.com/vi/iv5bB40Rxsg/maxresdefault.jpg",
+        "code": "iv5bB40Rxsg"
+    },
+    {
+        "id": 12,
+        "name": "Run Run (Live - Paris)",
+        "artist": "Indila",
+        "image": "https://i.ytimg.com/vi/0wdqF5zGQ_c/maxresdefault.jpg",
+        "code": "0wdqF5zGQ_c"
     }
 ]
