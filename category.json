@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Folk",
+        "description": "Folk Music",
+        "image": "https://images.8tracks.com/cover/i/002/682/752/tumblr_ldsw8gjimt1qdq19emodif-1948.jpg?rect=0,0,500,500&q=98&fm=jpg&fit=max",
+        "musics": [
+            1,
+            2
+        ]
+    }
+]
