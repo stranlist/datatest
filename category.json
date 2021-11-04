@@ -4,6 +4,31 @@
         "title": "Folk",
         "description": "Folk Music",
         "image": "https://images.8tracks.com/cover/i/002/682/752/tumblr_ldsw8gjimt1qdq19emodif-1948.jpg?rect=0,0,500,500&q=98&fm=jpg&fit=max",
+        "sequence": 1,
+        "isActive" : true,
+        "musics": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Folk",
+        "description": "Folk Music",
+        "image": "https://images.8tracks.com/cover/i/002/682/752/tumblr_ldsw8gjimt1qdq19emodif-1948.jpg?rect=0,0,500,500&q=98&fm=jpg&fit=max",
+        "sequence": 2,
+        "isActive" : true,
         "musics": [
             1,
             2
