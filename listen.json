@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": [
+            {
+                "type": "tr",
+                "title": "Folk",
+                "description": "Folk Müziği"
+            },
+            {
+                "type": "en",
+                "title": "Folk",
+                "description": "Folk Music"
+            }
+        ],
+        "image": "https://routenote.com/blog/wp-content/uploads/2021/01/zekeriya-sen-4wlRmtvcic0-unsplash-1280x960.jpg",
+        "sequence": 1,
+        "isActive": true,
+        "categoryList": [
+            1
+        ],
+        "musicList": []
+    }
+]
