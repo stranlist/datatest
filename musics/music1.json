@@ -1,37 +1,310 @@
 [
     {
         "id": 1,
-        "name": "Bless Your Soul",
-        "artist": "The Bones of J.R. Jones",
-        "image": "https://i1.sndcdn.com/artworks-000153871079-4vvneo-t500x500.jpg",
-        "code": "Y1695LXjnz8"
+        "name": "İstersen",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "4tCRnvXSdwE"
     },
     {
         "id": 2,
-        "name": "St. James' bed",
-        "artist": "The Bones of J.R. Jones",
-        "image": "https://m.media-amazon.com/images/I/81qEduEXReL._SS500_.jpg",
-        "code": "imIKQsIyQ-U"
+        "name": "Ben Akıllanmam",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "zZ2JzAKmfYw"
     },
     {
         "id": 3,
-        "name": "Bad Moves",
-        "artist": "The Bones of J.R. Jones",
-        "image": "https://m.media-amazon.com/images/I/91Sy-TNTQNL._SS500_.jpg",
-        "code": "pv4OBYulyGM"
+        "name": "Alacalı",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "hhgbqIRMOGM"
     },
     {
         "id": 4,
-        "name": "Howling Around My Happy Home",
-        "artist": "Daniel Norgren",
-        "image": "https://i1.sndcdn.com/artworks-lk4Rfb5p9UbpWVyH-dvITdw-t500x500.jpg",
-        "code": "QAfxXioZwfs"
+        "name": "Ara Sıra Ara",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "LpUVY_nm-EE"
     },
     {
         "id": 5,
-        "name": "For The Love Of Music",
-        "artist": "Fat Freddy’s Drop",
-        "image": "https://i.ytimg.com/vi/EHh_vFZaS3c/hqdefault.jpg",
-        "code": "qIHQ1ez4Feg"
+        "name": "Gitmem Gerek",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "pEjOE9cWOt8"
+    },
+    {
+        "id": 6,
+        "name": "Sonsuz Kılalım",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "X1WZXu0Ey6E"
+    },
+    {
+        "id": 7,
+        "name": "Sen Sevda Mısın",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "l_HAOSBGYKc"
+    },
+    {
+        "id": 8,
+        "name": "Kimsenin Suçu Yok",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-1-sise-ask.jpg",
+        "code": "NKA95UgzCl4"
+    },
+    {
+        "id": 9,
+        "name": "Aşk Mı Lazım",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "Ck-eqXDwKy8"
+    },
+    {
+        "id": 10,
+        "name": "Seni Sevmiyorum Artık",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "8lpU_PbzT9A"
+    },
+    {
+        "id": 11,
+        "name": "Melodi",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "VGXGVhduHV0"
+    },
+    {
+        "id": 12,
+        "name": "Kalbime Dokundu",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "1g13BsZCNUg"
+    },
+    {
+        "id": 13,
+        "name": "Sahiden",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "ytbhQ7cSA_k"
+    },
+    {
+        "id": 14,
+        "name": "Sen Hala Sokağımda",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "TYtoqih_pM0"
+    },
+    {
+        "id": 15,
+        "name": "Mecnun",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "b4vbbFdhtMc"
+    },
+    {
+        "id": 16,
+        "name": "Olmadı",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "Abwncf74EA0"
+    },
+    {
+        "id": 17,
+        "name": "Ay Parçası",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "m89nlIA9XO0"
+    },
+    {
+        "id": 18,
+        "name": "Günlerden Sonbahar",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "QlbrmgMydUQ"
+    },
+    {
+        "id": 19,
+        "name": "Deli Divane",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "Dz0SIT0B6o0"
+    },
+    {
+        "id": 20,
+        "name": "Gül Goncalar",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-sahiden.jpg",
+        "code": "zD_gngKbLiA"
+    },
+    {
+        "id": 21,
+        "name": "Aşk Bitsin",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "cxnNZCt_f3Q"
+    },
+    {
+        "id": 22,
+        "name": "Tac Mahal",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "2tAbyEz5YTk"
+    },
+    {
+        "id": 23,
+        "name": "Kabahat Bende",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "seM8oqrU2qA"
+    },
+    {
+        "id": 24,
+        "name": "Kehanet",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "Q-w1SpY_IjQ"
+    },
+    {
+        "id": 25,
+        "name": "Kış Bahçeleri",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "pW4o3YSq9Ug"
+    },
+    {
+        "id": 26,
+        "name": "Haykırasım Var",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "qJJFp9ZDf5E"
+    },
+    {
+        "id": 27,
+        "name": "Karma",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "9Wnbm3tna2Q"
+    },
+    {
+        "id": 28,
+        "name": "Çöl Haydutu",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "7Pi3pKwljis"
+    },
+    {
+        "id": 29,
+        "name": "Bir Ömürlüğüm",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "0RC8jsQdgvI"
+    },
+    {
+        "id": 30,
+        "name": "Beni Çok Seveceksin",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "ldE3V46SwaM"
+    },
+    {
+        "id": 31,
+        "name": "Haykırasım Var",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "avR34HKdiro"
+    },
+    {
+        "id": 32,
+        "name": "Su Olsam",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-kehanet.jpg",
+        "code": "WySY2gIsNd4"
+    },
+    {
+        "id": 33,
+        "name": "Yüreksiz Tilki",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "ag4QLQ88qvk"
+    },
+    {
+        "id": 34,
+        "name": "Saman Alevi",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "USaXdbT81BQ"
+    },
+    {
+        "id": 35,
+        "name": "Nasıl Unuturum",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "6RBbORXMo2E"
+    },
+    {
+        "id": 36,
+        "name": "Dünden Beri",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "MDUmqEQXfyU"
+    },
+    {
+        "id": 37,
+        "name": "Alaz Alaz",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "qkh0Nr7keV4"
+    },
+    {
+        "id": 38,
+        "name": "Kumral Yazların",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "5t0QpnRk9aI"
+    },
+    {
+        "id": 39,
+        "name": "Masal Pazarı",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "sJYGBvqykgg"
+    },
+    {
+        "id": 40,
+        "name": "Sana Değmez",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "Ri71MKitKjQ"
+    },
+    {
+        "id": 41,
+        "name": "Arı Kovanı",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "C8KcgaQbdF0"
+    },
+    {
+        "id": 42,
+        "name": "Rinna Rinna",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-baska-hikayeler.jpg",
+        "code": "niUKXBrUvzk"
+    },
+    {
+        "id": 43,
+        "name": "Deli Kız",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-deli-kiz.jpg",
+        "code": "SVJnv0pKTac"
+    },
+    {
+        "id": 44,
+        "name": "Hayat Sürer",
+        "artist": "Buray",
+        "image": "https://archive.org/download/dinlebeniphoto/buray-hayat-surer.jpg",
+        "code": "NpHINs4PUXI"
     }
 ]
