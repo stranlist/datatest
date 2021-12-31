@@ -782,5 +782,425 @@
         "artist": "Niyazi Koyuncu",
         "image": "https://archive.org/download/dinlebeniphoto/niyazi-koyuncu-uryan.jpg",
         "code": "OfIRu2XDGFI"
+    },
+    {
+        "id": 113,
+        "name": "Sen Bu Yaylaları Yaylayamazsın",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "SvZWBXyoz_Q"
+    },
+    {
+        "id": 114,
+        "name": "Manamo",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "ucKROc4wjZI"
+    },
+    {
+        "id": 115,
+        "name": "Dedikodu",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "Lqv_0c232Zs"
+    },
+    {
+        "id": 116,
+        "name": "Momi",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "DKDMH2T8trw"
+    },
+    {
+        "id": 117,
+        "name": "İzzet Dayı",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "lU4lolGQAjY"
+    },
+    {
+        "id": 118,
+        "name": "Nişan",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "mWW0kEr8-JU"
+    },
+    {
+        "id": 119,
+        "name": "Karşılamalar",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "g_OR4bmG6Kw"
+    },
+    {
+        "id": 120,
+        "name": "Xvala",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "OAEdx8801Bc"
+    },
+    {
+        "id": 121,
+        "name": "Divane",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "AypFk_R8NiY"
+    },
+    {
+        "id": 122,
+        "name": "Kara Deyiler",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "rLLDIB7gu_o"
+    },
+    {
+        "id": 123,
+        "name": "Hasret",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "9w0SEvkNpDs"
+    },
+    {
+        "id": 124,
+        "name": "Lalebi",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "DL_9D6d3azI"
+    },
+    {
+        "id": 125,
+        "name": "Gelin Havası",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "s0MNy1ALh-w"
+    },
+    {
+        "id": 126,
+        "name": "Sevduğum",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "VfmhgoIILw8"
+    },
+    {
+        "id": 127,
+        "name": "Çayır Biçiyom Çayır",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "e1tEOeBmV_E"
+    },
+    {
+        "id": 128,
+        "name": "Kanser Belası",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "jeDSccSoASY"
+    },
+    {
+        "id": 129,
+        "name": "Sevdali",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "4m8kXoxvODU"
+    },
+    {
+        "id": 130,
+        "name": "Hapishane",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-divane.jpg",
+        "code": "5BwYA577mow"
+    },
+    {
+        "id": 131,
+        "name": "Gezma Sevduğum",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "tRvPdS30Jq4"
+    },
+    {
+        "id": 132,
+        "name": "Dalgalan Karadeniz",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "z42N_WUnDXQ"
+    },
+    {
+        "id": 133,
+        "name": "Sevda Kuşi",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "7DBIkU-A_N4"
+    },
+    {
+        "id": 134,
+        "name": "Hemşin'un Puşilisi",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "rv12H67D2aI"
+    },
+    {
+        "id": 135,
+        "name": "Kız Selamun Aleykum",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "ibHarkanofY"
+    },
+    {
+        "id": 136,
+        "name": "Yağmurun Damlaları",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "KvuMRNxM_Vo"
+    },
+    {
+        "id": 137,
+        "name": "Papilat Horonu",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "IpRUq7VkhO0"
+    },
+    {
+        "id": 138,
+        "name": "Sevdaluk Etmeduk Mi",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "LiLOGrNM8I0"
+    },
+    {
+        "id": 139,
+        "name": "Ela",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "MRcQzWfcgOI"
+    },
+    {
+        "id": 140,
+        "name": "E Nana",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "QW9pfRJJ1uk"
+    },
+    {
+        "id": 141,
+        "name": "Ey Sevduğum",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "tDGUluO1YiM"
+    },
+    {
+        "id": 142,
+        "name": "Gümüşhane Kızları",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "CjNsCCpJXBo"
+    },
+    {
+        "id": 143,
+        "name": "Sen Gel Bari",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "iWOFyLBFr3c"
+    },
+    {
+        "id": 144,
+        "name": "Hekimoğlu",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-dalgalan-karadeniz.jpg",
+        "code": "PwgFuLKs59M"
+    },
+    {
+        "id": 145,
+        "name": "Neyleyim Köşkü Neyleyim Sarayı",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "-RXEL-SwnvQ"
+    },
+    {
+        "id": 146,
+        "name": "Akşam Oldu Hüzünlendim",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "ZjKqTKGjvpY"
+    },
+    {
+        "id": 147,
+        "name": "Ben Küskünüm Feleğe",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "Z5v_BWSQKn4"
+    },
+    {
+        "id": 148,
+        "name": "Bir İhtimal Daha Var",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "CfIA08mhdiU"
+    },
+    {
+        "id": 149,
+        "name": "Bir Kızıl Goncaya Benzer Dudağın",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "ldrHVsIcJR0"
+    },
+    {
+        "id": 150,
+        "name": "Gözlerin Doğuyor Gecelerime",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "4euQfAG_UBQ"
+    },
+    {
+        "id": 151,
+        "name": "Gündüzüm Seninle Gecem Seninle",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "j3p_zK_xXPI"
+    },
+    {
+        "id": 152,
+        "name": "Bak Yeşil Yeşil",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "rUq9SYr3yjY"
+    },
+    {
+        "id": 153,
+        "name": "Mavi Boncuk",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "vhbazR9_9V4"
+    },
+    {
+        "id": 154,
+        "name": "Mendilimin Yeşili",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "jwuXAifNpu4"
+    },
+    {
+        "id": 155,
+        "name": "Ömrümce Hep Adım Adım",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "5Vv-p4WARzY"
+    },
+    {
+        "id": 156,
+        "name": "Seni Ben Unutmak İstemedim Ki",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "yKnqoivuGMc"
+    },
+    {
+        "id": 157,
+        "name": "Akasyalar Açarken",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-aski-mesk.jpg",
+        "code": "ttujmdghTYc"
+    },
+    {
+        "id": 158,
+        "name": "Sorma",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-sorma.jpg",
+        "code": "7mYhaMwqkuo"
+    },
+    {
+        "id": 159,
+        "name": "Hiç",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-hic.jpg",
+        "code": "Nf6I2bWbe2k"
+    },
+    {
+        "id": 160,
+        "name": "Güzelliğin On Par'Etmez",
+        "artist": "Resul Dindar & Murat Corak",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-guzelligin-on-par-etmez.jpg",
+        "code": "r-FTSrUuD74"
+    },
+    {
+        "id": 161,
+        "name": "Öptüm",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-optum.jpg",
+        "code": "TkUaIIT_hKk"
+    },
+    {
+        "id": 162,
+        "name": "Eyvallah",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-eyvallah.jpg",
+        "code": "cCXEXIQjym0"
+    },
+    {
+        "id": 163,
+        "name": "Yangın Yeri",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-yangin-yeri.jpg",
+        "code": "KfZUB6qrpEw"
+    },
+    {
+        "id": 164,
+        "name": "Sevdam ile Beraber",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-sevdam-ile-beraber.jpg",
+        "code": "1vFG3Ahzh_g"
+    },
+    {
+        "id": 165,
+        "name": "Ah Görele",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-ah-gorele.jpg",
+        "code": "G_mshEgurhQ"
+    },
+    {
+        "id": 166,
+        "name": "Yaşlan Benimle",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-yaslan-benimle.jpg",
+        "code": "f31LxYUv3R4"
+    },
+    {
+        "id": 167,
+        "name": "Hiç (Remix)",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-hic-remix.jpg",
+        "code": "8w-bL2BCbi4"
+    },
+    {
+        "id": 168,
+        "name": "Kapundaki Nar Midur",
+        "artist": "Resul Dindar & Aslıhan Güner",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-kapundaki-nar-midur.jpg",
+        "code": "X4zgBkz1tcw"
+    },
+    {
+        "id": 169,
+        "name": "Duman Aldi Dağlara",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-duman-aldi-daglara.jpg",
+        "code": "UHyuF6vNqbY"
+    },
+    {
+        "id": 170,
+        "name": "En Sonum",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-en-sonum.jpg",
+        "code": "Y8C5bg2xBjY"
+    },
+    {
+        "id": 171,
+        "name": "Sırdaş",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-sirdas.jpg",
+        "code": "kpp6FHvSL9o"
+    },
+    {
+        "id": 172,
+        "name": "Çift Jandarma",
+        "artist": "Resul Dindar",
+        "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-cift-jandarma.jpg",
+        "code": "BCJNyWgDOVY"
     }
 ]
