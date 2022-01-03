@@ -1202,5 +1202,397 @@
         "artist": "Resul Dindar",
         "image": "https://archive.org/download/dinlebeniphoto/resul-dindar-cift-jandarma.jpg",
         "code": "BCJNyWgDOVY"
+    },
+    {
+        "id": 173,
+        "name": "Deniz Üstünde Fener",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "z-6ZPqcIfoI"
+    },
+    {
+        "id": 174,
+        "name": "Yayla Yolundan Aştım",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "CdhG9Rw92JA"
+    },
+    {
+        "id": 175,
+        "name": "Yosun Tuttu Yüreğim",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "tnzrl53niRE"
+    },
+    {
+        "id": 176,
+        "name": "Sende Sevda Var ise",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "314uMtSFpaw"
+    },
+    {
+        "id": 177,
+        "name": "Çelik Bakışlı",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "esOtcfJ0TdA"
+    },
+    {
+        "id": 178,
+        "name": "Haburadan Aşağı",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "eRp2Tzww3kY"
+    },
+    {
+        "id": 179,
+        "name": "Yağan Yağmur Kar Değil",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "2vtscgMmC04"
+    },
+    {
+        "id": 180,
+        "name": "Beklesin Beni Yarim",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "5lG6ZDN8U6A"
+    },
+    {
+        "id": 181,
+        "name": "Suyun Altında Testi",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "Ubymc5BB7rI"
+    },
+    {
+        "id": 182,
+        "name": "Gel Sar Beni",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "rz7DmAgpiJ4"
+    },
+    {
+        "id": 183,
+        "name": "Nenni",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "mo48a-RNFIY"
+    },
+    {
+        "id": 184,
+        "name": "Mezar Taşı",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "SkPErgfO6-Q"
+    },
+    {
+        "id": 185,
+        "name": "Kaçır Beni",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "eRwqYCkHavY"
+    },
+    {
+        "id": 186,
+        "name": "Yağmurun Kaydesi - Enstrümantal",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-patika.jpg",
+        "code": "0vV45YxKwA4"
+    },
+    {
+        "id": 187,
+        "name": "Dağların Karı Yetmez",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "2uFNP6q8yis"
+    },
+    {
+        "id": 188,
+        "name": "Romiko",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "fRAwDcVzh_w"
+    },
+    {
+        "id": 189,
+        "name": "Seni Benim Bilirdim",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "Mk2jpqQTTb0"
+    },
+    {
+        "id": 190,
+        "name": "Hani Sevduğum Hani",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "rffgBmptYs0"
+    },
+    {
+        "id": 191,
+        "name": "Gideceğum Torul'a",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "v3K7ubOCyig"
+    },
+    {
+        "id": 192,
+        "name": "Hasret Uzun Bir Yol",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "Asv637j7kv0"
+    },
+    {
+        "id": 193,
+        "name": "Kestane Balı Gibi",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "X-RT2FL0mmM"
+    },
+    {
+        "id": 194,
+        "name": "Gizli Sebep",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "uJ6vOViI_Cw"
+    },
+    {
+        "id": 195,
+        "name": "Alika Horonu",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "dOXRz3OHSKQ"
+    },
+    {
+        "id": 196,
+        "name": "Hiç Bilmeden",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "l_4obUEIVoM"
+    },
+    {
+        "id": 197,
+        "name": "Sabaha Kadar Budur",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "p2CRenTFywg"
+    },
+    {
+        "id": 198,
+        "name": "Anlatamam Derdimi",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-mila.jpg",
+        "code": "oJT-yIhi5qM"
+    },
+    {
+        "id": 199,
+        "name": "Seyrettim Yıldızları",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "e3RvQW8mTxY"
+    },
+    {
+        "id": 200,
+        "name": "Yakalandım Doluya",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "SLTNrwctwNM"
+    },
+    {
+        "id": 201,
+        "name": "Yalnız Başına",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "wCCbyCPxV0s"
+    },
+    {
+        "id": 202,
+        "name": "Pokut’un Puğarı / Amlakit",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "6v_KqnAK5cE"
+    },
+    {
+        "id": 203,
+        "name": "Nerde Gidenlerimiz / Lodos",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "ECnponWYCyE"
+    },
+    {
+        "id": 204,
+        "name": "Gurbet",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "cwQMudZxjyY"
+    },
+    {
+        "id": 205,
+        "name": "Sevdalık Bende Bitti",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "ztoEI3_-MxQ"
+    },
+    {
+        "id": 206,
+        "name": "Verane",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "YYnHFPSigAE"
+    },
+    {
+        "id": 207,
+        "name": "Felek Gözün Kör Olsun",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "iio3UChQ6A8"
+    },
+    {
+        "id": 208,
+        "name": "Kız Sallana Sallana",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "Si8yuICGpHA"
+    },
+    {
+        "id": 209,
+        "name": "Bilemezdim Görmeden",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "KNSZKbj9RxM"
+    },
+    {
+        "id": 210,
+        "name": "Bulutların Kaydesi - Enstrümental",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-felamur.jpg",
+        "code": "2l5aAGC_olM"
+    },
+    {
+        "id": 211,
+        "name": "Yüreğimde Bir Umut",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "39ljLw6p5gY"
+    },
+    {
+        "id": 212,
+        "name": "Tulumcu Lidu Lidu",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "TaDWi3kXtWo"
+    },
+    {
+        "id": 213,
+        "name": "Alışırım Buna da",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "4fEcJG4ebUU"
+    },
+    {
+        "id": 214,
+        "name": "Sevdalığın Yolunda",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "KpgHgqkzVOw"
+    },
+    {
+        "id": 215,
+        "name": "Samistal Yaylası",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "W_ymGqxPbK0"
+    },
+    {
+        "id": 216,
+        "name": "Verçenik",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "Ze9JrbSYudk"
+    },
+    {
+        "id": 217,
+        "name": "Dallarına Kondurmaz",
+        "artist": "Selçuk Balcı & Sait Uçar",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "7vRxAVYJ-Y0"
+    },
+    {
+        "id": 218,
+        "name": "Köprü Çeşmenin Suyu",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "4ju9y9GxGpg"
+    },
+    {
+        "id": 219,
+        "name": "Dikensiz Gül",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "oXaugcXLNks"
+    },
+    {
+        "id": 220,
+        "name": "Açıldı Kale Başı",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "GVWcqEuN_RY"
+    },
+    {
+        "id": 221,
+        "name": "Ben Denizde Bir Gemi",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "8Z9snmc7iWY"
+    },
+    {
+        "id": 222,
+        "name": "Açtı Dağlarda Çiçek",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-vargit-zamani.jpg",
+        "code": "8TM9vH80wsk"
+    },
+    {
+        "id": 223,
+        "name": "Ağır Ağır",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-agir-agir.jpg",
+        "code": "tu2dTb0nD98"
+    },
+    {
+        "id": 224,
+        "name": "Ayrılamam",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-ayrilamam.jpg",
+        "code": "OOjO2xwFjiY"
+    },
+    {
+        "id": 225,
+        "name": "Bende Kalmasın",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-bende-kalmasin.jpg",
+        "code": "Iix79zUtDng"
+    },
+    {
+        "id": 226,
+        "name": "Kevser Irmağı",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-kevser-irmagi.jpg",
+        "code": "PzFzcwQQ4kk"
+    },
+    {
+        "id": 227,
+        "name": "Gül Sevdik Dikeni Kader",
+        "artist": "Selçuk Balcı & Bahadır Tatlıöz",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-gul-sevdik-dikeni-kader.jpg",
+        "code": "kZf8nCwvaKk"
+    },
+    {
+        "id": 228,
+        "name": "Karadeniz Senin Olsun",
+        "artist": "Selçuk Balcı",
+        "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-karadeniz-senin-olsun.jpg",
+        "code": "Lu8cNKJ9Iy4"
     }
 ]
