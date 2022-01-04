@@ -1594,5 +1594,439 @@
         "artist": "Selçuk Balcı",
         "image": "https://archive.org/download/dinlebeniphoto/selcuk-balci-karadeniz-senin-olsun.jpg",
         "code": "Lu8cNKJ9Iy4"
+    },
+    {
+        "id": 229,
+        "name": "Bu Tepe Pullu Tepe",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "xIC89-3QfvU"
+    },
+    {
+        "id": 230,
+        "name": "Meryem",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "GJoKuoCpo4A"
+    },
+    {
+        "id": 231,
+        "name": "Bahçalarda Kestane",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "ArCDD8wGnWI"
+    },
+    {
+        "id": 232,
+        "name": "Evlerine Varagele Usandım",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "RLJPAsX7h3Q"
+    },
+    {
+        "id": 233,
+        "name": "Mağusa Limanı",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "eogW7AUWYB0"
+    },
+    {
+        "id": 234,
+        "name": "Dudilli",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "P2wt1lxszMM"
+    },
+    {
+        "id": 235,
+        "name": "Yayla Çiçeği misin",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "y-vm-aM4ld0"
+    },
+    {
+        "id": 236,
+        "name": "Düz",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "qeZB_Gukwmw"
+    },
+    {
+        "id": 237,
+        "name": "Gelino",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "QCQuMnyypk8"
+    },
+    {
+        "id": 238,
+        "name": "Uçtu Uçtu Baba",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "vtxFLqq0ci4"
+    },
+    {
+        "id": 239,
+        "name": "Adjaruli",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "0eREqzA1t6o"
+    },
+    {
+        "id": 240,
+        "name": "Norhars Ellim",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "CWLWFOUjW_I"
+    },
+    {
+        "id": 241,
+        "name": "Köprüden Geçemedim",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "lmvcr3p2Kto"
+    },
+    {
+        "id": 242,
+        "name": "Deriko",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-alaca.jpg",
+        "code": "R_tDj1KRf0U"
+    },
+    {
+        "id": 243,
+        "name": "Rüzgar",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-ruzgar.jpg",
+        "code": "ZawaWLTe9nA"
+    },
+    {
+        "id": 244,
+        "name": "Eklemedir Koca Konak",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-eklemedir-koca-konak.jpg",
+        "code": "7yHnw_VINYs"
+    },
+    {
+        "id": 245,
+        "name": "Köz",
+        "artist": "Samida & Erdem Akın",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-koz.jpg",
+        "code": "HolihzDWkgc"
+    },
+    {
+        "id": 246,
+        "name": "İz",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-iz.jpg",
+        "code": "vzjt4daXXTA"
+    },
+    {
+        "id": 247,
+        "name": "Gelin Hoş Geldin",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-gelin-hos-geldin.jpg",
+        "code": "lYIlCKhA9Mk"
+    },
+    {
+        "id": 248,
+        "name": "Mavilim Mavişelim",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-mavilim-maviselim.jpg",
+        "code": "jQbcRAZdDDY"
+    },
+    {
+        "id": 249,
+        "name": "Sevda Yürekten Olur",
+        "artist": "Samida & Yayla Trio",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-sevda-yurekten.jpg",
+        "code": "jU9rr_ns6gE"
+    },
+    {
+        "id": 250,
+        "name": "Hemşin Yol Havası",
+        "artist": "Samida & Ufuk Altay",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "EXSwrJBH_Os"
+    },
+    {
+        "id": 251,
+        "name": "Ah Turpav Turpav",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Zxf5F-8Inrg"
+    },
+    {
+        "id": 252,
+        "name": "Odam Kireç Tutmuyor",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Cc1snRnY58s"
+    },
+    {
+        "id": 253,
+        "name": "Oy Yaylalar",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Ml4GS5q5gog"
+    },
+    {
+        "id": 254,
+        "name": "İşte Gidiyorum",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "N5VuEDDxbTo"
+    },
+    {
+        "id": 255,
+        "name": "Bana Bir Masal Anlat Baba",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "MXuuAHea2y4"
+    },
+    {
+        "id": 256,
+        "name": "Rachuli",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Yfp03GE3jdU"
+    },
+    {
+        "id": 257,
+        "name": "Annemize Şarkı",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "iUJFwecYMmo"
+    },
+    {
+        "id": 258,
+        "name": "Bebeğin Beşiği Çamdan (Nenni Nenni)",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "YNlpNxa0ndc"
+    },
+    {
+        "id": 259,
+        "name": "Dar Hejiroke (İncir Ağacı)",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Nu6SLR1oQ7E"
+    },
+    {
+        "id": 260,
+        "name": "Hey Yana",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "G_kK4QslYAk"
+    },
+    {
+        "id": 261,
+        "name": "Ederlezi",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "krHinmDsGck"
+    },
+    {
+        "id": 262,
+        "name": "Patara Gogo",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "xiJ59Bp9OTY"
+    },
+    {
+        "id": 263,
+        "name": "İnsan İnsan",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "qVhTxPeg3Ag"
+    },
+    {
+        "id": 264,
+        "name": "Mokhevis Kalo Tinao",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "EfWK1GLdFPs"
+    },
+    {
+        "id": 265,
+        "name": "Ayletme Beni",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "6-IUUzsT230"
+    },
+    {
+        "id": 266,
+        "name": "Sevdelino / Detelino",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "MHjRLlSX3DA"
+    },
+    {
+        "id": 267,
+        "name": "Gelevera Deresi",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "4dyZDAycVJU"
+    },
+    {
+        "id": 268,
+        "name": "Gesi Bağları",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "l7YGg8sQnLo"
+    },
+    {
+        "id": 269,
+        "name": "Seherde Bir Bağa Girdim",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Zl4s1Xe25_Y"
+    },
+    {
+        "id": 270,
+        "name": "Gökteki Yıldızları",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "j_u28HRM6FU"
+    },
+    {
+        "id": 271,
+        "name": "Yiğidim Aslanım",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "xxQoY193GW8"
+    },
+    {
+        "id": 272,
+        "name": "Deniz Üstü Köpürür",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "7_MWViZLo3M"
+    },
+    {
+        "id": 273,
+        "name": "Drama Köprüsü",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "ojMsEF6QsyU"
+    },
+    {
+        "id": 274,
+        "name": "Makaram Sarı Bağlar",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "R2UUsDC8r60"
+    },
+    {
+        "id": 275,
+        "name": "Dillirga",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "jBqyu0AoTGk"
+    },
+    {
+        "id": 276,
+        "name": "Çayın Öte Yüzünde",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "f5pFjMFXr0Y"
+    },
+    {
+        "id": 277,
+        "name": "Burçak Tarlası",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "D42Ue1sJMKU"
+    },
+    {
+        "id": 278,
+        "name": "Ramo Ramo",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "RzXURfoG1zA"
+    },
+    {
+        "id": 279,
+        "name": "Shenma Survilma",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Pt34fkNmEOY"
+    },
+    {
+        "id": 280,
+        "name": "Deli Bulut",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "PdhUf8yzlRw"
+    },
+    {
+        "id": 281,
+        "name": "Acharuli",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "LhIa511moQg"
+    },
+    {
+        "id": 282,
+        "name": "Dut Ağacı",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "wYEhSRF2kUM"
+    },
+    {
+        "id": 283,
+        "name": "Sen Bir Aysın",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "WZ1d2AV6rYU"
+    },
+    {
+        "id": 284,
+        "name": "Haralo (Mgzavruli)",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "wFCcfIgLlkc"
+    },
+    {
+        "id": 285,
+        "name": "Ehlocan",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "nBiRhwbbTNA"
+    },
+    {
+        "id": 286,
+        "name": "Eftelya",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "zU-e6YQjFYI"
+    },
+    {
+        "id": 287,
+        "name": "Sırlarumi söyledum",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "433iS4QCo3Q"
+    },
+    {
+        "id": 288,
+        "name": "Hele Mele",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "8Z0C8Jz91Ck"
+    },
+    {
+        "id": 289,
+        "name": "Samaia",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "-4oNU1xz9lM"
+    },
+    {
+        "id": 290,
+        "name": "Lazuri nana",
+        "artist": "Samida",
+        "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
+        "code": "Y6Ak1ITgg0Q"
     }
 ]
