@@ -2028,5 +2028,691 @@
         "artist": "Samida",
         "image": "https://archive.org/download/dinlebeniphoto/samida-youtube.jpg",
         "code": "Y6Ak1ITgg0Q"
+    },
+    {
+        "id": 291,
+        "name": "Yanar Yüreğim",
+        "artist": "Kürşat Gürel",
+        "image": "https://archive.org/download/dinlebeniphoto/kursat-gurel-yanar-yuregim.jpg",
+        "code": "iI1F7qrEFOU"
+    },
+    {
+        "id": 292,
+        "name": "Alev Alev",
+        "artist": "Kürşat Gürel",
+        "image": "https://archive.org/download/dinlebeniphoto/kursat-gurel-alev-alev.jpg",
+        "code": "upYMPjTDIWs"
+    },
+    {
+        "id": 293,
+        "name": "Yanar Yüreğim (Akustik)",
+        "artist": "Kürşat Gürel",
+        "image": "https://archive.org/download/dinlebeniphoto/kursat-gurel-yanar-yuregim-akustik.jpg",
+        "code": "T7vmm2mgKro"
+    },
+    {
+        "id": 294,
+        "name": "Bir Gülüşü Var",
+        "artist": "Kürşat Gürel",
+        "image": "https://archive.org/download/dinlebeniphoto/kursat-gurel-bir-gulusu-var.jpg",
+        "code": "3YxdUmKoUPE"
+    },
+    {
+        "id": 295,
+        "name": "Haram Olasın",
+        "artist": "Kürşat Gürel & Esra Akaydın",
+        "image": "https://archive.org/download/dinlebeniphoto/kursat-gurel-haram-olasin.jpg",
+        "code": "PrdXcVxOhdo"
+    },
+    {
+        "id": 296,
+        "name": "Kadırga Guzeli",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "Rk14dASiYhs"
+    },
+    {
+        "id": 297,
+        "name": "Kurban Olduğum",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "m9xw8Vw2Vjg"
+    },
+    {
+        "id": 298,
+        "name": "Yandım Tutuşuyorum",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "4pJVKYgEQrs"
+    },
+    {
+        "id": 299,
+        "name": "Ben Buralı Değilim",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "-cz_JN7ka64"
+    },
+    {
+        "id": 300,
+        "name": "Haram Olasın Haram",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "sCfg0WCfqPA"
+    },
+    {
+        "id": 301,
+        "name": "Yüreğum",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "cwE813jOpqs"
+    },
+    {
+        "id": 302,
+        "name": "Destan",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "_TyORry_-wk"
+    },
+    {
+        "id": 303,
+        "name": "Öyle Bekar Durda Dur",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "kSHAwFSymv0"
+    },
+    {
+        "id": 304,
+        "name": "Kanım Sana Kaynıyor",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "MmG7Emu31eE"
+    },
+    {
+        "id": 305,
+        "name": "İki İki Dört Eder",
+        "artist": "Hülya Polat & İsmail Türüt",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-kurban-oldugum.jpg",
+        "code": "TqDwgcn3xn0"
+    },
+    {
+        "id": 306,
+        "name": "Ben Kaymaklı Pastayım",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "ud8KQr7yrv8"
+    },
+    {
+        "id": 307,
+        "name": "Yaz Gelir",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "tfM8Ac1KftM"
+    },
+    {
+        "id": 308,
+        "name": "Bizin Evin Gelini",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "MzZozWXL048"
+    },
+    {
+        "id": 309,
+        "name": "Ellerin Sözü",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "cao5YhipfWQ"
+    },
+    {
+        "id": 310,
+        "name": "Gel Emine",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "Z7m14TWz5tE"
+    },
+    {
+        "id": 311,
+        "name": "Çıkmayasun Aklımdan",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "xnh2y20pStY"
+    },
+    {
+        "id": 312,
+        "name": "Ula Yaşar",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "cpUmqvSKAIQ"
+    },
+    {
+        "id": 313,
+        "name": "Atım",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "nXqwB4dkTuc"
+    },
+    {
+        "id": 314,
+        "name": "Atışma",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ben-kaymakli-pastayim.jpg",
+        "code": "z3UmrWXTIY4"
+    },
+    {
+        "id": 315,
+        "name": "Kızlar Ağası",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "ze13HYNyBm0"
+    },
+    {
+        "id": 316,
+        "name": "Daha Etmem Sevdalık",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "eofFttsdS84"
+    },
+    {
+        "id": 317,
+        "name": "Dur Dur",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "IHKuRs2_Rrw"
+    },
+    {
+        "id": 318,
+        "name": "Yar Gönüllü Olaydın",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "ZsUC5uSU-RI"
+    },
+    {
+        "id": 319,
+        "name": "Seven Ben Ağlayan Ben",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "sl1DKT1uNGA"
+    },
+    {
+        "id": 320,
+        "name": "Tulum Show",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "GXJYXe9bHSc"
+    },
+    {
+        "id": 321,
+        "name": "Muçe Cuma Giçvare",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "f40GvT_ZVeg"
+    },
+    {
+        "id": 322,
+        "name": "Bir Daha",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "4-8MpUPs8bg"
+    },
+    {
+        "id": 323,
+        "name": "Yavrum",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "HghwRtmeito"
+    },
+    {
+        "id": 324,
+        "name": "Aşalım",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-tulum-show-kizlar-agasi.jpg",
+        "code": "yDsXQNtakSw"
+    },
+    {
+        "id": 325,
+        "name": "Ya Bidur",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "60Vw5fjvolM"
+    },
+    {
+        "id": 326,
+        "name": "Sultanıyım Kızların",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "OPNKT1QmrkU"
+    },
+    {
+        "id": 327,
+        "name": "Fati Sırtı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "UwHvhbupaEk"
+    },
+    {
+        "id": 328,
+        "name": "Yayladan Gelir Atlar",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "01Gg-vQW7G0"
+    },
+    {
+        "id": 329,
+        "name": "Huzur Evi",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "GebMMbKhqSE"
+    },
+    {
+        "id": 330,
+        "name": "Melyatişe Cevulur",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "xRTXUkoH-_0"
+    },
+    {
+        "id": 331,
+        "name": "Ağıt",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "Hvzow_h0avg"
+    },
+    {
+        "id": 332,
+        "name": "Aha",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "hssGi2Bl4cY"
+    },
+    {
+        "id": 333,
+        "name": "Bekar Bekar Ölmeli",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "MVPWLVQwNBo"
+    },
+    {
+        "id": 334,
+        "name": "Yandi Yüreğim Yandi",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "9klU_s89PU4"
+    },
+    {
+        "id": 335,
+        "name": "Vakfıkebir Görele",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "aU9-u6oaH4c"
+    },
+    {
+        "id": 336,
+        "name": "Şıp Şıp",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "zWLy7JAdFYI"
+    },
+    {
+        "id": 337,
+        "name": "Lazona",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "I1ESSjsUjEM"
+    },
+    {
+        "id": 338,
+        "name": "Bizim Köyler",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-aha.jpg",
+        "code": "XExpSY-ouFE"
+    },
+    {
+        "id": 339,
+        "name": "Vur Davula",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "ik_btrdA4lI"
+    },
+    {
+        "id": 340,
+        "name": "Sen Ayrıda Ben Ayrı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "7O34tDuw43E"
+    },
+    {
+        "id": 341,
+        "name": "Ay Vuruyor",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "zpXxN2P1H0M"
+    },
+    {
+        "id": 342,
+        "name": "Çıkardım Sığırları",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "Mvr2NgdEAAs"
+    },
+    {
+        "id": 343,
+        "name": "Yar Uyanık",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "JJKXl14chrE"
+    },
+    {
+        "id": 344,
+        "name": "Sakın Gelme",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "0urg5Av1QHE"
+    },
+    {
+        "id": 345,
+        "name": "Yaylanın Kukuvağı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "48_DnxeSlCQ"
+    },
+    {
+        "id": 346,
+        "name": "Kızların Kralı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "jK7mv6AwnKc"
+    },
+    {
+        "id": 347,
+        "name": "İkbalım",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "FJuOPhaSe8o"
+    },
+    {
+        "id": 348,
+        "name": "Elif Dedim",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "jhHvnfb0vZ8"
+    },
+    {
+        "id": 349,
+        "name": "Yüreğim Pazarda Kaldı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "UpjMIFAxtiE"
+    },
+    {
+        "id": 350,
+        "name": "Destan (Asker Türküsü)",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "IMfhHLu3Cos"
+    },
+    {
+        "id": 351,
+        "name": "Benmi Dedim",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "FfDjr3YsG7o"
+    },
+    {
+        "id": 352,
+        "name": "Nerden Gördüm",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-pusula.jpg",
+        "code": "xWMNzJV6yPI"
+    },
+    {
+        "id": 353,
+        "name": "Haye Haye",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "QZkEkXD2YOg"
+    },
+    {
+        "id": 354,
+        "name": "Dere Boyi Kestane",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "uJHKkpgOI7M"
+    },
+    {
+        "id": 355,
+        "name": "Gaybana",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "BkwhStsrTJw"
+    },
+    {
+        "id": 356,
+        "name": "Ne Kadar Çok Derdim Varimiş",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "1p7QaO4yYms"
+    },
+    {
+        "id": 357,
+        "name": "Yamadan Gel Yamadan",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "peKH3rhLetM"
+    },
+    {
+        "id": 358,
+        "name": "Değirmen",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "CmRqSn-jlzw"
+    },
+    {
+        "id": 359,
+        "name": "Zil Kale",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "ISk1YV_dfmE"
+    },
+    {
+        "id": 360,
+        "name": "Beddua",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "tZpSAN53m-s"
+    },
+    {
+        "id": 361,
+        "name": "Didi Guda (Büyük Guda)",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "EFI0o0sv76M"
+    },
+    {
+        "id": 362,
+        "name": "Attın Beni Kapıya",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-haye-haye.jpg",
+        "code": "bcyrm7ylRB4"
+    },
+    {
+        "id": 363,
+        "name": "Yık Kendini",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "PnfuqrXQhWM"
+    },
+    {
+        "id": 364,
+        "name": "Allı Pulli Biçağım",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "HRk1HI2hNh8"
+    },
+    {
+        "id": 365,
+        "name": "Yüreğim",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "3Zem58fEbRo"
+    },
+    {
+        "id": 366,
+        "name": "Elevit Yaylası",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "P5b-CdWg52Y"
+    },
+    {
+        "id": 367,
+        "name": "Elmalımısın",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "bwLPRbnLd9Q"
+    },
+    {
+        "id": 368,
+        "name": "Nasıl Yani",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "hSFDU4mOpnQ"
+    },
+    {
+        "id": 369,
+        "name": "Niye Değiştin",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "-hHvQJuK5qE"
+    },
+    {
+        "id": 370,
+        "name": "Ula Nuri",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "vxQM0HNdtEQ"
+    },
+    {
+        "id": 371,
+        "name": "Avlaskani Cuneli",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "70cwK2OppAs"
+    },
+    {
+        "id": 372,
+        "name": "Çarşambayı Sel Aldı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "HZs9ZyRBKic"
+    },
+    {
+        "id": 373,
+        "name": "Rino",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "MYElIYQFXyk"
+    },
+    {
+        "id": 374,
+        "name": "Kızıl Ağaç Fidanı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "iMgIdAwfawY"
+    },
+    {
+        "id": 375,
+        "name": "Ben Niye Evleneyim",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "77RGg8HK4_o"
+    },
+    {
+        "id": 376,
+        "name": "Yüreğim (Enstrümantal)",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-rino.jpg",
+        "code": "6xv5rDX37EY"
+    },
+    {
+        "id": 377,
+        "name": "Gitme Bensuz Pazara",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "0NOkX6V3PdA"
+    },
+    {
+        "id": 378,
+        "name": "Sebil Serika",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "cDK1PTe-3S0"
+    },
+    {
+        "id": 379,
+        "name": "Nazar",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "d8b75gzZ-BY"
+    },
+    {
+        "id": 380,
+        "name": "Bir Ufacık Karınca",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "nmb2VOSToCQ"
+    },
+    {
+        "id": 381,
+        "name": "Haltozun Portakalı",
+        "artist": "Hülya Polat & Erdal Bayrakoğlu",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "bDhD5vRCRcE"
+    },
+    {
+        "id": 382,
+        "name": "Oy Nani",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "PXCsuJzWSAY"
+    },
+    {
+        "id": 383,
+        "name": "Karşılama",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "Hw4vgbHLCkA"
+    },
+    {
+        "id": 384,
+        "name": "Aklım Kaldı",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "5wV02gPwIh4"
+    },
+    {
+        "id": 385,
+        "name": "Biricik",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "qPad-90INPI"
+    },
+    {
+        "id": 386,
+        "name": "Pazari Kayde",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sebil-serika.jpg",
+        "code": "bdXGlw07WDE"
+    },
+    {
+        "id": 387,
+        "name": "Sen Rüzgar Bende Yaprak (Pavri)",
+        "artist": "Hülya Polat",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-sen-ruzgar-bende-yaprak-pavri.jpg",
+        "code": "2b1obGWkxfo"
+    },
+    {
+        "id": 388,
+        "name": "İlk Sevda Unutulmaz",
+        "artist": "Hülya Polat & Yılmaz Kasapoğlu",
+        "image": "https://archive.org/download/dinlebeniphoto/hulya-polat-ilk-sevda-unutulmaz.jpg",
+        "code": "us-5QQHBHNE"
     }
 ]
