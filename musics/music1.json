@@ -5416,5 +5416,446 @@
         "artist": "Gökhan Birben",
         "image": "https://archive.org/download/dinlebeniphoto/gokhan-birben-yagmurlarin-ardindaki-ezgiler.jpg",
         "code": "HxWyNuJHTv0"
+    },
+    {
+        "id": 775,
+        "name": "Mektup",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "DXFuyEA-cW4"
+    },
+    {
+        "id": 776,
+        "name": "İme Tonyalin Pedin",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "XfMws62ebnM"
+    },
+    {
+        "id": 777,
+        "name": "Asker",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "khk4sHlTSbM"
+    },
+    {
+        "id": 778,
+        "name": "Agapo Se",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "9H9hvDMHZtE"
+    },
+    {
+        "id": 779,
+        "name": "Meyhane",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "8jx0OwAG4ik"
+    },
+    {
+        "id": 780,
+        "name": "Yadigar'a Ağıt",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "UrSassBjsAU"
+    },
+    {
+        "id": 781,
+        "name": "Ta Maliam Ntesprinan",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "UN9LboukwWg"
+    },
+    {
+        "id": 782,
+        "name": "Biri Kör Biri Topal",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "0XtefGG7fbE"
+    },
+    {
+        "id": 783,
+        "name": "Seçim Zamanı",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "ZyquwfQC9ac"
+    },
+    {
+        "id": 784,
+        "name": "Yağmur",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "OohsGK5rX1w"
+    },
+    {
+        "id": 785,
+        "name": "Ağarsar - Horon",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "KqzYO66VHfk"
+    },
+    {
+        "id": 786,
+        "name": "Sürmene - Sallama",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "O8SX_2u4mP4"
+    },
+    {
+        "id": 787,
+        "name": "Şu İstanbul Kızları",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalandar.jpg",
+        "code": "WXGjS1VsbEg"
+    },
+    {
+        "id": 788,
+        "name": "Felek",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "04fXVMobrCk"
+    },
+    {
+        "id": 789,
+        "name": "Görele Horonu",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "5PHLMT7WMks"
+    },
+    {
+        "id": 790,
+        "name": "Kelebek",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "75JBdaTP2oM"
+    },
+    {
+        "id": 791,
+        "name": "Duman",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "pO3wXIar2T8"
+    },
+    {
+        "id": 792,
+        "name": "Eski Yar",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "_c52roRcHus"
+    },
+    {
+        "id": 793,
+        "name": "Tonton",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "U11TfWFDs0U"
+    },
+    {
+        "id": 794,
+        "name": "Maçka Trigona",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "-jr0xnw2ceE"
+    },
+    {
+        "id": 795,
+        "name": "Karadeniz",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "1FG4PLD695I"
+    },
+    {
+        "id": 796,
+        "name": "Beşikdüzü",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "Bz3cKbpsAk4"
+    },
+    {
+        "id": 797,
+        "name": "Yaban Eller",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "GZMIEvFSTkI"
+    },
+    {
+        "id": 798,
+        "name": "Turkika Ellinika",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "WZDuItcPA1o"
+    },
+    {
+        "id": 799,
+        "name": "Kara Günler",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "TNG6qzSdCFA"
+    },
+    {
+        "id": 800,
+        "name": "Karanfil",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "db5c4VDuBYc"
+    },
+    {
+        "id": 801,
+        "name": "Kaderim Böyle İmiş",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-santa.jpg",
+        "code": "BtpHswA2qmQ"
+    },
+    {
+        "id": 802,
+        "name": "Laison",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "KKii2EccD8A"
+    },
+    {
+        "id": 803,
+        "name": "Mana",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "H_K12QIoPPA"
+    },
+    {
+        "id": 804,
+        "name": "Esira To Tifekim",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "LxLSyWBuV54"
+    },
+    {
+        "id": 805,
+        "name": "Parthen - Romania",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "MpjN_p_zGZs"
+    },
+    {
+        "id": 806,
+        "name": "Sorepsa Gia T'esena",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "2clsmn7YYXw"
+    },
+    {
+        "id": 807,
+        "name": "To Xorio M' Nonizo",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "JR-eYcYvkg8"
+    },
+    {
+        "id": 808,
+        "name": "Kastana",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "gQiGXuTfpwY"
+    },
+    {
+        "id": 809,
+        "name": "Oneiro",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "QnImkR5tfBg"
+    },
+    {
+        "id": 810,
+        "name": "As Filo Ta Tsitsia S'",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "Ds8ker3iJDE"
+    },
+    {
+        "id": 811,
+        "name": "Tzivaeri",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "x_l0rrnsNkQ"
+    },
+    {
+        "id": 812,
+        "name": "As Pame Sin Kiorele",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "H6wCIY5RcWQ"
+    },
+    {
+        "id": 813,
+        "name": "Anemos",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "OIXq7eKc9RQ"
+    },
+    {
+        "id": 814,
+        "name": "Horon - Tsangaloglou",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-romeika.jpg",
+        "code": "T18jmaognzc"
+    },
+    {
+        "id": 815,
+        "name": "Kanlı Hemşin",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "fXfBfjt9B4A"
+    },
+    {
+        "id": 816,
+        "name": "Karayemiş Ağacı",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "GCatOWaKZlY"
+    },
+    {
+        "id": 817,
+        "name": "Yar Beni Görsün Diye",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "HVzHyw2fgHo"
+    },
+    {
+        "id": 818,
+        "name": "Bir Baktım",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "HTMGLfBX_7g"
+    },
+    {
+        "id": 819,
+        "name": "Dünya",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "bjXaPL0Ymeo"
+    },
+    {
+        "id": 820,
+        "name": "Uzungöl Şerah",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "pBe0Tfdg578"
+    },
+    {
+        "id": 821,
+        "name": "Siste Fener",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "T8b4vg125PE"
+    },
+    {
+        "id": 822,
+        "name": "Ay More",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "t08v2aZC82w"
+    },
+    {
+        "id": 823,
+        "name": "Aşk Denizi",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "rfBFpNpzoiQ"
+    },
+    {
+        "id": 824,
+        "name": "Ah Almanya",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "7NuHhYZj-u4"
+    },
+    {
+        "id": 825,
+        "name": "Memleket",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "kzCSaCp5ph0"
+    },
+    {
+        "id": 826,
+        "name": "S’enan Kardian Apes",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "PfPKacBvPTE"
+    },
+    {
+        "id": 827,
+        "name": "Momoeria",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-momoyer.jpg",
+        "code": "d82OeRDCGsk"
+    },
+    {
+        "id": 828,
+        "name": "Seni de Unuturum",
+        "artist": "Apolas Lermi & Ozan Özdemir",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-seni-de-unuturum.jpg",
+        "code": "fmeaFiAtTPo"
+    },
+    {
+        "id": 829,
+        "name": "Akşam Oldi Karanluk",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-aksam-oldi-karanluk.jpg",
+        "code": "1tiCgWTQXNM"
+    },
+    {
+        "id": 830,
+        "name": "Hal Yamano",
+        "artist": "Apolas Lermi & Mikâil Aslan",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-hal-yamano.jpg",
+        "code": "vKnVgJP5Zv0"
+    },
+    {
+        "id": 831,
+        "name": "Kalanima Deresi",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-kalanima-deresi.jpg",
+        "code": "cf8SmGu4VDQ"
+    },
+    {
+        "id": 832,
+        "name": "Para",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-para.jpg",
+        "code": "i8n99Eczyv8"
+    },
+    {
+        "id": 833,
+        "name": "Laze Mı",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-laze-mi.jpg",
+        "code": "v1B6tZYBHA4"
+    },
+    {
+        "id": 834,
+        "name": "Enisen İfiloti",
+        "artist": "Apolas Lermi & İhsan Eş",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-enisen-ifiloti.jpg",
+        "code": "uEblRNG488A"
+    },
+    {
+        "id": 835,
+        "name": "Yaşandı Bitti",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-yasandi-bitti.jpg",
+        "code": "4u4OryzA_tg"
+    },
+    {
+        "id": 836,
+        "name": "Oy Yarum",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-oy-yarum.jpg",
+        "code": "LzX5WNPsBCc"
+    },
+    {
+        "id": 837,
+        "name": "Giresun Gümüşhane",
+        "artist": "Apolas Lermi",
+        "image": "https://archive.org/download/dinlebeniphoto/apolas-lermi-giresun-gumushane.jpg",
+        "code": "es_TXjqKCgM"
     }
 ]
